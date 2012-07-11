@@ -1,3 +1,5 @@
 h1. My VIM dotfiles
 
 You are welcome.
+
+I manage my VIM scripts as Git submodules in @.vim/bundle@ and "pathogen":http://www.vim.org/scripts/script.php?script_id=2332 handles them for me. Allen Wei "wrote about this":http://www.allenwei.cn/tips-using-git-submodule-keep-your-plugin-up-to-date/.
