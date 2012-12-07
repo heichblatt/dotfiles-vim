@@ -10,4 +10,4 @@ syntax on
 
 call pathogen#infect()
 call pathogen#helptags()
-autocmd vimenter * if !argc() | NERDTree | endif
+"autocmd vimenter * if !argc() | NERDTree | endif
