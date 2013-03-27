@@ -1,4 +1,4 @@
-set gfn=Monospace\ 10
+set gfn=Monaco\ 10
 colorscheme solarized 
 set background=light
 call pathogen#infect()
