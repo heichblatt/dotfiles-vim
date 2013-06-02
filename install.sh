@@ -1,6 +1,11 @@
 #!/bin/sh
 
+set -e
+
 REPODIR=$(pwd)
+
+git submodule init
+git submodule update
 
 cd $HOME
 
