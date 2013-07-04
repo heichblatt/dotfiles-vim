@@ -10,4 +10,6 @@ syntax on
 
 call pathogen#infect()
 call pathogen#helptags()
+call pathogen#runtime_append_all_bundles()
+
 "autocmd vimenter * if !argc() | NERDTree | endif
