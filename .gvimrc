@@ -1,4 +1,4 @@
-set gfn=Monospace\ 10
+set gfn=Envy\ Code\ R\ 10
 colorscheme zenburn
 set background=light
 call pathogen#infect()
