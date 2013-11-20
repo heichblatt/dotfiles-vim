@@ -1,5 +1,5 @@
-set gfn=Envy\ Code\ R\ 10
-colorscheme zenburn
+set gfn=DejaVu\ Sans\ Mono\ 9
+colorscheme solarized
 set background=light
 call pathogen#infect()
 call pathogen#helptags()
