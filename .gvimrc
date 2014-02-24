@@ -1,6 +1,8 @@
 set gfn=DejaVu\ Sans\ Mono\ 9
-colorscheme solarized
+colorscheme default
 set background=light
+set number
+
 call pathogen#infect()
 call pathogen#helptags()
 call pathogen#runtime_append_all_bundles()
