@@ -13,7 +13,6 @@ set linebreak
 set nolist  " list disables linebreak
 set textwidth=0
 set wrapmargin=0
-
 call pathogen#infect()
 call pathogen#helptags()
 call pathogen#runtime_append_all_bundles()
