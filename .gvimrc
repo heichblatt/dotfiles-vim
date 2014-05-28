@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 set number
 set gfn=Roboto\ Mono\ 11
 colorscheme default 
+=======
+set gfn=Monospace\ 9
+colorscheme zenburn
+>>>>>>> Zenburn
 "set background=light
 call pathogen#infect()
 call pathogen#helptags()
