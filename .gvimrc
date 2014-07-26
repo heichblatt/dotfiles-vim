@@ -1,5 +1,5 @@
-set gfn=Monospace\ 9
-colorscheme zenburn
+set gfn=Liberation\ Mono\ 9
+colorscheme default
 "set background=light
 call pathogen#infect()
 call pathogen#helptags()
