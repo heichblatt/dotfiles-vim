@@ -7,6 +7,7 @@ colors default
 set hidden
 filetype plugin indent on
 syntax on
+set modeline
 
 set wrap
 set linebreak
