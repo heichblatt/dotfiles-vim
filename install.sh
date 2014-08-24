@@ -10,5 +10,5 @@ git submodule update
 cd $HOME
 
 for i in .vim .vimrc .gvimrc ;
-	do ln -sv $REPODIR/"$i" . ;
+	do ln -fsv $REPODIR/"$i" . ;
 done
