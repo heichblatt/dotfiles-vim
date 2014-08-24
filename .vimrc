@@ -9,6 +9,8 @@ filetype plugin indent on
 syntax on
 set modeline
 
+let NERDTreeChDirMode=2
+
 set wrap
 set linebreak
 set nolist  " list disables linebreak
