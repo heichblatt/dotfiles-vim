@@ -1,4 +1,4 @@
-set gfn=Envy\ Code\ R\ 10
+set gfn=Source\ Code\ Pro\ 10
 colorscheme default
 "set background=light
 call pathogen#infect()
