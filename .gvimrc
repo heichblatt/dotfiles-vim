@@ -1,4 +1,4 @@
-set gfn=Liberation\ Mono\ 9
+set gfn=Source\ Code\ Pro\ 10
 colorscheme default
 "set background=light
 call pathogen#infect()
