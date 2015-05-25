@@ -2,7 +2,7 @@ set smartindent
 set number 	" show line numbers
 set ruler	" show cursor position
 "set columns=72	" max num of cols
-colors base16-monokai
+colors zenburn
 "set background=light
 set hidden
 filetype plugin indent on
