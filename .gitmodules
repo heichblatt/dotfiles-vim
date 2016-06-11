@@ -19,3 +19,6 @@
 [submodule ".vim/bundle/monokai"]
 	path = .vim/bundle/monokai
 	url = https://github.com/sickill/vim-monokai
+[submodule ".vim/bundle/stencil"]
+	path = .vim/bundle/stencil
+	url = git://github.com/mrtazz/vim-stencil.git
