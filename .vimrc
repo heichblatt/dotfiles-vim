@@ -19,5 +19,5 @@ set wrapmargin=0
 call pathogen#infect()
 call pathogen#helptags()
 call pathogen#runtime_append_all_bundles()
-
+let g:StencilTemplatepath = "~/.vim/templates/"
 "autocmd vimenter * if !argc() | NERDTree | endif
