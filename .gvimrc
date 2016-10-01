@@ -1,5 +1,5 @@
 set gfn=Roboto\ Mono\ 10
-colorscheme zenburn
+colorscheme default
 
 "set background=light
 call pathogen#infect()
