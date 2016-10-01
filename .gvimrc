@@ -1,7 +1,7 @@
 set gfn=Roboto\ Mono\ 10
-colorscheme default
-
-"set background=light
+set number
+colorscheme solarized
+set background=light
 call pathogen#infect()
 call pathogen#helptags()
 call pathogen#runtime_append_all_bundles()
